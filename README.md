@@ -59,7 +59,7 @@ Repository
 Live Page
 </a>
 </p>
-<p><strong>A JavaScript application to generate random passwords utilizing selected criteria.</p>
+<p><strong>A personal portfolio built with HTML and CSS.</p>
 </td>
 </tr>
 
