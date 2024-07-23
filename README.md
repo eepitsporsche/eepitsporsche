@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Greetings, my name is Porsche Herskorn</h1>
-<h3 align="center">Registered Dental Assistant | Full-Stack Software Developer</h3>
+<h3 align="center">Registered Dental Assistant → Full-Stack Software Developer</h3>
 <p align="center">
                  <a href="mailto:herskorn@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/porsche-herskorn/">LinkedIn</a> | <a href="https://porsche-folio.netlify.app/">Portfolio</a> | <a href="https://www.instagram.com/eepitsporsche/">Instagram</a>
                  </p>
