@@ -59,7 +59,7 @@ Repository
 Live Page
 </a>
 </p>
-<p><strong>A personal portfolio built with HTML and CSS.</p>
+<p><strong>A personal portfolio single page application built with HTML and CSS.</p>
 </td>
 </tr>
 
