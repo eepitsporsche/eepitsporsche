@@ -8,7 +8,7 @@
     <a href="mailto:herskorn@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/porsche-herskorn/">LinkedIn</a> | <a href="https://porsche-folio.netlify.app/">Portfolio</a> | <a href="https://www.instagram.com/eepitsporsche/">Instagram</a>
     </p>
 <p>
-Hello, my name is Porsche Carrera Herskorn. I was born in Wisconsin and lived in Florida as a child before moving to California. Photography is a passion of mine and nature is my favorite subject to photograph. My current industry is dentistry, where I am a Registered Dental Assistant. After ten years in my field, I am excited to expand my knowledge and begin a new career path in webpage developement, and am currently seeking a full-time position as a junior developer.
+Hello, my name is Porsche Carrera Herskorn. I was born in Wisconsin and lived in Florida as a child before moving to California. Photography is a passion of mine and nature is my favorite subject to photograph. My current industry is dentistry, where I am a Registered Dental Assistant. After ten years in my field, I am excited to expand my knowledge and begin a new career path in full stack development, and am currently seeking a full-time position as a junior developer.
 </p>
 
 - 📖 I’m currently building my portfolio through my work via the Full-Stack Web Development Boot Camp at the UC Berkeley Extension.
